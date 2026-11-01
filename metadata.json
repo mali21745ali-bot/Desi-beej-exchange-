@@ -1,0 +1,6 @@
+{
+  "name": "Desi Beej Exchange (دیسی بیج ایکسچینج)",
+  "description": "پاکستان کے کسانوں اور کاشتکاروں کے لیے دیسی اور روایتی بیجوں کے تبادلے، فروخت اور زرعی رہنمائی کا جدید پلیٹ فارم۔",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
